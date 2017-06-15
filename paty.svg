@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <symbol height="400.272" width="744.09003" id="svg_9" viewBox="0 0 145 78" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+   <metadata id="svg_8">image/svg+xml</metadata>
+
+   <path fill="#007f00" id="svg_7" d="m125,21c8.332,-3.5983 13.004,-10.1924 15,-19c-8.232,2.80043 -13.377,10.7823 -15,19m-4,-12c-5.577,5.8743 -11.656,12.3927 -10,21c5.736,-4.0776 12.654,-13.5181 10,-21m-16,8c-5.5123,6.3758 -8.9236,12.4521 -9,21c6.695,-3.5837 12.138,-13.4505 9,-21m-14,5c-4.0633,6.7251 -10.2714,13.7187 -8,22c6.5693,-4.0055 11.1158,-14.5045 8,-22z"/>
+   <path fill="#000000" id="svg_6" d="m123,22c-11.076,11.0683 -28.1564,25.1444 -45,24c-4.9019,3.7183 -13.9585,3.1726 -20,4c-20.2938,2.7794 -43.7206,2.3969 -54,24c8.8131,-0.7007 14.6752,-13.7323 24,-16.6103c25.2896,-7.8055 52.3415,-3.0042 76,-17.1899c5.807,-3.4818 19.162,-10.564 19,-18.1998z"/>
+   <path fill="#007f00" id="svg_5" d="m120,32c8.488,-0.1761 15.85,-3.0241 21,-10c-8.494,0.1753 -16.79,1.9759 -21,10m-10,9c7.984,2.968 14.524,0.0661 22,-3c-6.225,-4.253 -17.334,-2.7387 -22,3m-17,5c2.8923,8.6746 17.783,6.29 25,6l-3,-6l-22,0z"/>
+  </symbol>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text font-weight="bold" font-style="italic" stroke="#000000" transform="matrix(2.8310928344726562,0,0,3.25,-211.1765033006668,-105.75) " xml:space="preserve" text-anchor="middle" font-family="Monospace" font-size="24" id="svg_1" y="73.307692" x="136.587118" stroke-width="0" fill="#007f3f">PLG</text>
+  <use x="-183.889613" y="-4.866975" transform="rotate(33.45832443237305 150.6034545898437,129.45715332031253) matrix(0.16857939690238408,0,0,0.20546641766530094,158.65804608159252,83.05210746676676) " xlink:href="#svg_9" id="svg_10"/>
+  <g opacity="0.75" id="svg_11"/>
+  <ellipse transform="rotate(-51.95295715332031 599,166) " rx="1" id="svg_12" cy="166" cx="599" opacity="0.75" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#007f3f"/>
+ </g>
+</svg>
